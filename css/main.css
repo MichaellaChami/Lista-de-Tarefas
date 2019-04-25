@@ -1,0 +1,48 @@
+body{
+    font-family: 'Shadows Into Light Two', cursive;
+    background-color: #4d4d4d;
+    color: white;
+}
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.container {
+	width: 500px;
+	margin: 50px auto;
+}
+input {
+	font-family: inherit;
+	font-size: 18px;
+	background-color: #e176a2;
+  color:white;
+	width: 100%;
+	padding: 13px 13px 13px 20px;
+	box-sizing: border-box;
+	border:none;
+}
+span {
+	height: 60px;
+	text-align: center;
+	width: 60px;
+	float: right;
+}
+h1 {
+	background-color: #e176a2;
+	margin: 0;
+	padding: 10px 20px;
+	text-transform: uppercase;
+	font-size: 24px;
+	font-weight: normal;
+}
+li {
+	background-color: #e176a2;
+	height: 60px;
+	line-height: 60px;
+	padding: 0 0 0 20px;
+}
+.concluido {
+  background-color: #e69ab9;
+	color:#edc4c4;
+	text-decoration: line-through;
